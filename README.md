@@ -1,11 +1,11 @@
 # Power-BI
-Created interactive dashboard to track and analyze sales data.
+1. Created interactive dashboard to track and analyze sales data.
 
 
-used complex parameters to drill down in worksheet and customization using filters and slicers.
+2. Used complex parameters to drill down in worksheet and customization using filters and slicers.
 
 
-created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
+3. Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
 
 
-used different types of customized visualization (bar chart, pie chart, scatter chart, donut chart, slicers etc).
+4. Used different types of customized visualization (bar chart, pie chart, scatter chart, donut chart, slicers etc).
